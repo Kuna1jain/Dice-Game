@@ -6,6 +6,8 @@
 - And rolls them randomly the player who gets higher number wins.
 
 # Tech stack
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
+
+<a href="https://kuna1jain.github.io/Dice-Game/dicee.html"> Project link </a>
